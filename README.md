@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌐 **Personal Website**: [rayleizhu.github.io](https://rayleizhu.github.io)
+- 🎨 If you like my website's template, feel free to check out the source code at [rayleizhu/PaperMod-academic-patch](https://github.com/rayleizhu/PaperMod-academic-patch/).
+- 🚀 I set up a convenient GPU server environment using [rayleizhu/docker-cuda-codeserver](https://github.com/rayleizhu/docker-cuda-codeserver) — feel free to give it a try if you're interested!
+
 <!--
 **rayleizhu/rayleizhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
